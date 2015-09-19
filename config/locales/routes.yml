@@ -29,3 +29,19 @@ it:
     tag: etichetta
     search: ricerca
     profile: profilo
+
+sv:
+  routes:
+    group: grupp
+    category: kategori
+    tag: tag
+    search: sokning
+    profile: profil
+
+fi:
+  routes:
+    group: ryhma
+    category: kategoria
+    tag: tag
+    search: haku
+    profile: profiili
