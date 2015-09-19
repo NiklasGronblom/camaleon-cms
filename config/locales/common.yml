@@ -3,12 +3,12 @@
 # note: doesn't support multi level
 en:
   common:
-    read_more: "Read More"
+    read_more: "Read more"
     submit: "Submit"
     send: "Send"
     login: "Login"
     logout: "Logout"
-    confirm: "Are you confirm?"
+    confirm: "Are you sure?"
     register: "Register"
 
     comment_msg: "You must be logged in to post a comment"
@@ -18,31 +18,31 @@ en:
     leave_comment: "Leave a comment"
     comment_new: "New Comment"
     comment_saved: "Your comment was saved"
-    comment_error: "An error was occurred on save comment"
+    comment_error: "An error  occurred when saveing comment"
     comment_reply: "Reply"
     edit: "Edit"
 
-    recent_posts: "Recent Posts"
+    recent_posts: "Recent posts"
 
 
-    search_msg: "Search Results for:"
+    search_msg: "Search results for:"
     search_not_found: "Search items were not found to list"
-    category_list: "Category List"
-    post_tag_list: "Tag List"
-    sub_category_list: "Sub Category List"
+    category_list: "Category list"
+    post_tag_list: "Tag list"
+    sub_category_list: "Subcategory list"
     content_list: "Content list: %s"
     visit: "Visit"
-    no_contents_found: "No contents found"
+    no_contents_found: "No content found"
     no_results_found: "No results found"
 
     author: "Author"
     site: "Site"
     categories: "Categories"
     next: "Next"
-    prev: "Prev"
+    prev: "Previous"
     current: "Current"
     search: "Search"
-    file_format_error: "File format not allowed"
+    file_format_error: "File format not permitted"
     file_size_exceeded: "File size exceeded"
 
     notice: "News "
@@ -52,12 +52,12 @@ en:
     share_google_plus: "Share Google Plus"
     back_top: "Back to Top"
     total_followers_social: "Total of followers on social networks"
-    latest_articles: "Latest Articles"
+    latest_articles: "Latest articles"
     photo_gallery: "Photo gallery"
-    home_galleries: "Go to the home of galleries"
+    home_galleries: "Go to the gallery home"
     addition: "Addition"
     view_all_news: "View all news"
-    extra_attributes: "Extra Attributes"
+    extra_attributes: "Extra attributes"
 
   will_paginate:
     previous_label: 'Previous'
