@@ -187,3 +187,126 @@ it:
     previous_label: 'Precedente'
     next_label: 'Successivo'
 
+sv:
+  common:
+    read_more: "Läs mera"
+    submit: "Submit"
+    send: "Send"
+    login: "Logga in"
+    logout: "Logga ut"
+    confirm: "Är du säker?"
+    register: "Registrera"
+
+    comment_msg: "Du måste vara inloggad för att kunna kommentera"
+    comment: "Kommentar"
+    comments: "Kommentarer"
+    message: "Meddelande"
+    leave_comment: "Kommentera"
+    comment_new: "Ny kommentar"
+    comment_saved: "Din kommentar sparades"
+    comment_error: "Ett fel uppstod då kommentaren sparades"
+    comment_reply: "Svara"
+    edit: "Redigera"
+
+    recent_posts: "Senaste inlägg"
+
+
+    search_msg: "Sökresultat för:"
+    search_not_found: "Sökningen gav inte resultat"
+    category_list: "Kategorilista"
+    post_tag_list: "Tag List"
+    sub_category_list: "Lista på underkategorier"
+    content_list: "Innehållsförteckning: %s"
+    visit: "Besök"
+    no_contents_found: "Inget innehåll hittades"
+    no_results_found: "Inga resultat"
+
+    author: "Författare"
+    site: "Site"
+    categories: "Kategorier"
+    next: "Nästa"
+    prev: "Föregående"
+    current: "Nuvarande"
+    search: "Sök"
+    file_format_error: "Filformatet inte tillåtet"
+    file_size_exceeded: "Filstorlek överskriden"
+
+    notice: "Nyheter"
+    share: "Dela på"
+    share_facebook: "Dela på Facebook"
+    share_twitter: "Dela på Twitter"
+    share_google_plus: "Dela på Google Plus"
+    back_top: "Tillbaka till början"
+    total_followers_social: "Totalt antal följare på sociala nätverk"
+    latest_articles: "Senaste artiklar"
+    photo_gallery: "Bildgalleri"
+    home_galleries: "Gå till bildgalleriets början"
+    addition: "Tillägg"
+    view_all_news: "Visa alla nyheter"
+    extra_attributes: "Extra attribut"
+
+  will_paginate:
+    previous_label: 'Föregående'
+    next_label: 'Nästa'
+
+fi:
+  common:
+    read_more: "Lue lisää"
+    submit: "Lähetä"
+    send: "Lähetä"
+    login: "Kirjaudu"
+    logout: "Kirjaudu ulos"
+    confirm: "Oletko varma?"
+    register: "Rekisteröidy"
+
+    comment_msg: "Sinun täytyy olla kirjautunut kommentoidaksesi"
+    comment: "Kommenti"
+    comments: "Kommentit"
+    message: "Viesti"
+    leave_comment: "Jätä kommentti"
+    comment_new: "Uusi kommentti"
+    comment_saved: "Kommenttisi on tallennettu"
+    comment_error: "An error was occurred on save comment"
+    comment_reply: "Vastaa"
+    edit: "Muokkaa"
+
+    recent_posts: "Uusimmat viestit"
+
+
+    search_msg: "Hakutulokset:"
+    search_not_found: "Search items were not found to list"
+    category_list: "Category List"
+    post_tag_list: "Tag List"
+    sub_category_list: "Sub Category List"
+    content_list: "Content list: %s"
+    visit: "Visit"
+    no_contents_found: "No contents found"
+    no_results_found: "No results found"
+
+    author: "Kirjoittaja"
+    site: "Site"
+    categories: "Kategoriat"
+    next: "Seuraava"
+    prev: "Edellinen"
+    current: "Nykyinen"
+    search: "Etsi"
+    file_format_error: "Tiedostomuoto ei ole sallittu"
+    file_size_exceeded: "Tiedoston koko ylitetty"
+
+    notice: "Uutiset "
+    share: "Jaa"
+    share_facebook: "Jaa Facebook:iin"
+    share_twitter: "Jaa Twitter:iin"
+    share_google_plus: "Jaa Google Plus:aan"
+    back_top: "Alkuun"
+    total_followers_social: "Total of followers on social networks"
+    latest_articles: "Viimeisimmät artikkelit"
+    photo_gallery: "Kuvagalleria"
+    home_galleries: "Kuvagallerian alkuun"
+    addition: "Addition"
+    view_all_news: "Näytä kaikki uutiset"
+    extra_attributes: "Extra Attributes"
+
+  will_paginate:
+    previous_label: 'Edellinen'
+    next_label: 'Seuraava'

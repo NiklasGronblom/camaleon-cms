@@ -7,6 +7,8 @@ en:
     de: "Deutsch"
     pt: "Português"
     it: "Italian"
+    sv: "Swedish"
+    fi: "Finnish"
 
 es:
   languages:
@@ -17,6 +19,9 @@ es:
     de: "Alemán"
     pt: "Portugues"
     it: "Italiano"
+    sv: "Sueco"
+    fi: "Finés"
+
 
 it:
   languages:
@@ -27,3 +32,32 @@ it:
     de: "Tedesco"
     pt: "Portoghese"
     it: "Italiano"
+    sv: "Svedese"
+    fi: "Finlandese"
+
+
+sv:
+  languages:
+    es: "Spanska"
+    en: "Engelska"
+    fr: "Franska"
+    zh: "Kinesiska"
+    de: "Tyska"
+    pt: "Portugisiska"
+    it: "Italienska"
+    sv: "Svenska"
+    fi: "Finska"
+
+
+fi:
+  languages:
+    es: "Espanja"
+    en: "Englanti"
+    fr: "Ranska"
+    zh: "Kiina"
+    de: "Saksa"
+    pt: "Portugali"
+    it: "Italia"
+    sv: "Ruotsi"
+    fi: "Suomi"
+
