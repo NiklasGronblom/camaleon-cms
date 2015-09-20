@@ -1,0 +1,23 @@
+$.extend($.validator.messages, {
+    cifES: "Ange korrekt CIF.",
+    creditcard: "Ange ett korrekt kreditkortsnummer.",
+    date: "Ange ett korrekt datum.",
+    dateISO: "Ange ett korrekt datum (&Aring;&Aring;&Aring;&Aring;-MM-DD).",
+    digits: "Ange endast siffror.",
+    email: "Ange en korrekt e-postadress.",
+    equalTo: "Ange samma v&auml;rde igen.",
+    extension: "Ange en korrekt &auml;ndelse.",
+    file_format: "Filformatet icke till&aring;tet.",
+    max: $.validator.format("Ange ett v&auml;rde som &auml;r mindre eller lika med {0}."),
+    maxlength: $.validator.format("Du f&aring;r ange h&ouml;gst {0} tecken."),
+    min: $.validator.format("Ange ett v&auml;rde som &auml;r st&ouml;rre eller lika med {0}."),
+    minlength: $.validator.format("Du m&aring;ste ange minst {0} tecken."),
+    nieES: "Ange korrekt NIE.",
+    nifES: "Ange korrekt NIF.",
+    number: "Ange ett korrekt nummer.",
+    range: $.validator.format("Ange ett v&auml;rde mellan {0} och {1}."),
+    rangelength: $.validator.format("Ange minst {0} och max {1} tecken."),
+    remote: "Fyll i detta fält.",
+    required: "Detta f&auml;lt &auml;r obligatoriskt.",
+    url: "Ange en korrekt URL."
+});
